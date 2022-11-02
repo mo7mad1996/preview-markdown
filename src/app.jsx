@@ -9,7 +9,7 @@ const App = _ => {
     <>
       <main className="app">
         <section className="section markdown" >
-          <textarea className="input" value={code} onChange={e => setCode(e.target.value)}></textarea>
+          <textarea autoFocus className="input" value={code} onChange={e => setCode(e.target.value)}></textarea>
         </section>
         <section className="markdown-body px-5   ">
           <article className="result" >
