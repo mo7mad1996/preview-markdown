@@ -8,14 +8,12 @@ You will find the demo in [this link](https://preview-markdown-1.netlify.app/).
 
 > Run the code
 ```    
-    λ npm install
-    λ npm start
+λ npm install
+λ npm start
 ```
 
-#### Technologies used
+> Technologies used
 ```
 1. React
 2. react-markdown
 ```
-
----
