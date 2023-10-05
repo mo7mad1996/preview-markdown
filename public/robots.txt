@@ -1,3 +1,6 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
+
+Allow: /
+Sitemap: https://preview-markdown-1.netlify.app/sitemap.xml
 Disallow:
