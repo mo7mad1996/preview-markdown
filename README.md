@@ -7,7 +7,7 @@ the github view the `README.md` file for every project.
 You will find the demo in [this link](https://preview-markdown-1.netlify.app/).
 
 > Run the code
-```pash    
+```bat
 λ npm install
 λ npm start
 ```
